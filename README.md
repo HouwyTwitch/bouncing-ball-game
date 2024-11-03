@@ -1,6 +1,3 @@
-Here's a complete README for your Pygame bouncing ball project:
-
-```markdown
 # Bouncing Ball Game
 
 ## Description
